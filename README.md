@@ -1,6 +1,6 @@
 MeCab for Swift Package Manager
 =====
-### MeCab Dynamic Framework for Swift Package Manager
+### MeCab Library for SPM
 
 originally forked from
 [~~FLCLjp/iPhone-libmecab~~](https://github.com/FLCLjp/iPhone-libmecab) (mirror here [rnorth/iPhone-libmecab](https://github.com/rnorth/iPhone-libmecab))
